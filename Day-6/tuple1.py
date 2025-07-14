@@ -1,0 +1,5 @@
+student=("karthiii",21,"AI&ML")
+print("Hello ",student[0])
+print("Your age ", student[1])
+print("your course ",student[2])
+print(len(student))

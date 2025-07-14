@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"yaml.customTags": [
+			"!upload scalar",
+			"!remove scalar",
+			"!keep scalar",
+			"!erase scalar",
+			"!jwt scalar"
+		],
+		"yaml.schemas": {
+			"https://raw.githubusercontent.com/doanthuanthanh88/testapi6/main/schema.json": "*.yaml",
+			"https://json.schemastore.org/prometheus.json": "file:///c%3A/Users/karthik/OneDrive/Desktop/tracking-automation-effectiveness/config/prometheus.yml"
+		},
+		"git.ignoreLimitWarning": true
+	}
+}
